@@ -1,0 +1,13 @@
+Entras a la taberna, buscas al Padre pero no puedes encontarlo. 
+Te dices a ti mismo:
+    Bueno, parece que aquí no hay más que solo gente 
+    pasando un buen tiempo. Pero para quitarte las dudas, 
+    decides preguntarle al dueño de la taberna para asegurarte
+
+Le preguntas: 
+    ¿Buenas, de casualidad esta un tal Kenovitz aquí?
+
+Dueño de la Taberna: 
+	No, el no suele frecuentar estos lugares. Aparte que aquí no son bienvenidos los católicos.
+
+Decepcionado, te alejas y vas a buscar en los otros lugares disponibles

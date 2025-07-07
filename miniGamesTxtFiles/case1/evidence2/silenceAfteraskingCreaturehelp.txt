@@ -1,0 +1,17 @@
+De la nada hay un silencio incomodo. No puedes escuchar ni siquiera una hoja 
+moverse, pero de repente la creatura esta frente tuyo. El pescador tenía 
+razón, tal y como la describió así es, amarilla, pero largo y lizo, con ojos 
+blancos como la nieve de Los Alpes. 
+
+La creatura se posa enfrente tuyo y te pregunta: 
+
+Creatura: 
+    ¿Que es lo que quieres saber de mi? 
+
+Le respondes: 
+    Quiero que me cuentes él porque causaste el daño que causaste, 
+    mataste a las personas que mataste. 
+
+La creatura se te queda viendo escéptica, pero notas que poco a poco, relaja sus 
+extremidades. Lograste que la creatura se calmara. Si tienes suerte puedes hacer 
+que se abra. Pero tienes que tener cuidado, una palabra mal dicha y puedes arruinarlo todo

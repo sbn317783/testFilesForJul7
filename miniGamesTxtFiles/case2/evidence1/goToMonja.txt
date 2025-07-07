@@ -1,0 +1,16 @@
+Viajas hacia la basílica, pero no vez a nada más que a unas simples monjas. 
+Te acercas y le preguntas a una de ellas: 
+
+	Buen día ¿Ustedes conocen donde puedo encontrar al padre Kenovitz?
+
+Monja:
+	Lamento informarle joven que el padre Kenovitz no se encuentra en estos 
+    lugares, el actualmente anda en una misión en Aosta, Italia. El 
+    estará ahí algunos meses. Puedes encontrarlo en la Catedral de Aosta. 
+    Ahí él lo puede recibir
+
+Con esta información, le respondes: 
+    Muchas gracias por la información. Tenga buen día
+
+Con una pista de donde sabes donde está el padre, te preparas mentalmente 
+para la odisea que te aguarda 

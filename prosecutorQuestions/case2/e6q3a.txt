@@ -1,0 +1,10 @@
+Fiscal Mobster: 
+    ¿Entonces acepta que la justicia no puede ser ciega ante la corrupción? 
+    ¿O su defensa prefiere ignorarla para justificar el crimen?
+
+Escoge tu respuesta: 
+
+a) La justicia debe ser imparcial, sí, pero sin cegarse.
+b) Ignorar la corrupción sería permitir la injusticia.
+c) El crimen no debe justificarse bajo ninguna excusa.
+d) Todos debemos buscar la verdad.

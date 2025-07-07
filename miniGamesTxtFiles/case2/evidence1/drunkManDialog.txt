@@ -1,0 +1,13 @@
+Te acercas al borracho y le preguntas: 
+    Disculpe, sabe ¿Dónde puedo encontrar la Catedral de Aosta?
+
+Borracho: 
+	Izquierda derecha, izquierda izquierda, izquierda norte y después al sur
+    
+Le respondes, confundido: 
+	¿Gracias? 
+
+
+Al final,  decides hacerle caso, pero sorpresa, resulta que sus direcciones 
+te llevaron a la Taberna local. Molesto, decides regresar al punto 
+de donde aún se encuentra la anciana vendiendo lechugas

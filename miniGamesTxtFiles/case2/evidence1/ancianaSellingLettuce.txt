@@ -1,0 +1,17 @@
+Le preguntas: 
+    Hola madre, usted sabe ¿cómo llegar a la Catedral de Aosta? 
+    Estoy buscando al Padre Kenovitz. ¿Puede decirme donde encontrarlo?
+
+Anciana: 
+Si hijo, solo siga el camino recto en la calle que vas y ahí llegaras con el. 
+
+Agradecido, le respondes a la anciana:: 
+	Perfecto, Muchas gracias, madre
+
+
+Pero ves que la iglesia esta cerrada, no se ve ninguna alma asi que decides
+esperar hasta mañana para poder seguir con tu travesía para llegar al padre 
+Kenovitz. Decides quedarte en un hostal enfrente de la gran catedral. 
+
+
+        ***Termina el día III ***

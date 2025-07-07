@@ -1,0 +1,20 @@
+        *** Empieza el dia IV ***
+
+
+Sales de tu hostal y te diriges hacia la catedral. Al entrar en la 
+catedral, vez a un hombre que está haciendo preparativos 
+en el altar, te acercas a él y le preguntas: 
+	¿Usted es el Padre Kenovitz? 
+
+Hombre en el altar: 
+	Si, ese soy yo. Dime, ¿Qué te trae a la casa del señor? 
+
+Le respondes: 
+    Padre, estoy aquí porque necesito su ayuda, vera, soy un abogado que… 
+    *Procedes a contarle el caso que te traes encima* 
+
+ Despues de haberle contado la historia de tu caso, el con asombro te responde:    
+
+    ¡Cielos! La verdad que, si esta fuerte lo que me has 
+    contado, ahora que me has contado lo que ha pasado cuéntame 
+    ¿Que te trae a este lado de los Alpes? 

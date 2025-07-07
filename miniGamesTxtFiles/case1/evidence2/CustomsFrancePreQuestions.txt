@@ -1,0 +1,15 @@
+Usuario: 
+	Bueno, vamos a Bugnières, espero llegar con bien…
+
+Así que te subes en el carruaje que va a Bugnières. Te pones cómodo y dado a que te despertaste 
+temprano para conseguir carruaje, decides dormir de nuevo. Cuando te despiertas notas que el 
+carruaje no se está moviendo. El chochero toca en la cabina y te avisa que están en la frontera de 
+Suiza con Francia, y necesitan que muestres documentación: 
+
+Oficial de aduanas: 
+	Buenas tardes ¿Me puede dar su nombre?
+Usuario: 
+	Buenas, mi nombre es *nombre de usuario* 
+    
+Oficial de aduanas:
+	¿Para donde se dirige? 

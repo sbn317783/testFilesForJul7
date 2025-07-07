@@ -1,0 +1,54 @@
+Pescador: 
+	Que quieres muchacho, ¿No ves que estoy ocupado?
+
+Usuario: 
+Soy *insertar nombre del usuario* y vengo en representación de Víctor Franken-
+
+Pescador: 
+¡Ah si! El científico loco que jugo a ser Dios, si lo he escuchado. Esa creatura, 
+demonio o lo que sea es una completa abominación. ¿No la ha visto usted? ¡Dios es una cosa horripilante! 
+
+Usuario: 
+	Justamente lo estaba buscando a usted porque he escuahdo rumores que usted vio a la creatura recientemente
+
+Pescador: 
+	Si, yo vi esa cosa horripilante bestia 
+
+Usuario: 
+	¿Dónde la vio?
+
+Pescador: 
+Veras, yo no soy de estas tierras, yo soy Frances y andaba por Bugnières, una comunidad en Francia 
+visitando a mi madre asegurándome que estuviera con bien dado a que he escuchado que Napoleón ha 
+lanzado una última defensiva. Siempre que visito Bugnières suelo dar una vuelta por Parc National de Forêts 
+es un denso bosque que se encuentra cerca de Bugnières. Mientras estaba dando mi camita por el lugar, 
+escuche ruido en los arboles. Al inicio, pensé que eran simples aves tratado de hacer nido o buscar 
+refugio, pero los ruidos se volvieron mas y mas fuertes, asi que decidí voltear hacia atrás y ahí fue 
+donde lo vi.. Me vio con esos ojos.. llenos de agua como queriendo llorar, su mirada fija en mi, yo me quedé 
+en shock, no pude moverme. Gracias a Saint Bénigne de Dijon la creatura decidio largarse y no la vi. 
+Cuando mi cuerpo pudo reaccionar. Por fin pude correr hasta mi casa con todas mis energías. 
+
+Usuario: 
+	¿Y usted cree que la creatura puede seguir ahí? 
+Pescador: 
+Pues no te sabría decir joven abogado, aunque mi corazón quiere creer que la creatura desapareció 
+del lugar, mi madre me manda cartas diciendo que se escuchan ruidos raros en el bosque, y la mayoría de 
+los habitantes han decidido evitar ir al bosque desde mi encuentro con esa creatura. Si no te molesta 
+responder, ¿Por qué preguntas? Acaso no pieins-
+
+Usuario: 
+Tengo que ir si, ya que él es la razón por la que Víctor esta en la cárcel 
+
+Pescador: 
+Solo ten cuidado joven… Que Saint Bénigne de Dijon vaya contigo a donde quiera que vayas. 
+Yo me tengo que retirar, tengo que ir al mercado a vender los peces que acabo de pescar
+
+Usuario: 
+	Muchas gracias por sus deseos. ¡Hasta Pronto!
+
+[Comienzas a caminar poco a poco hacia la estación de carruajes. Sientes la brisa de la 
+temprana primavera tocar tu mejilla mientras poco a poco, el sonido del rio empieza a desaparecer]
+
+
+Usuario: 
+Así que Parc National de Forêts ¿eh? Bueno, es mejor que me prepare para el viaje que me espera

@@ -1,0 +1,16 @@
+Nombre: Victor Frankeintein
+
+Edad: 3x años 
+
+Cantidad de cargos imputados: 4 
+
+Cargo I: Homicidio por Cargo
+    Al acusado se le imputa este delito dado que ha una criatura que el 
+    mismo trajo a la vida, causo la muerte de varios civiles, incluyedo 
+    la vida de el hermano y ex-esposa del acusado
+
+Cargo II:  Crimenes contra la moral publica y el orden natural 
+    "Razon por la que se le acusa de esto" 
+
+Cargo III: Negacion de responsabilidad de una entidad conciente
+    "Razon por la que se le acusa de este delito" 

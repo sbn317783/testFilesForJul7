@@ -1,0 +1,10 @@
+Fiscal Mobster: 
+    Acaso no es cierto que un hombre que necesita derribar a otro 
+    para salvarse, ya ha perdido su alma?
+
+Escoge tu respuesta: 
+
+a) El alma se pierde si se pierde la verdad.
+b) Salvar vidas a veces implica decisiones difíciles.
+c) La justicia no es cuestión de almas sino de hechos.
+d) No hemos perdido nada, solo buscamos justicia.

@@ -1,0 +1,18 @@
+En la cuenca del rio hay cinco pescadores: 
+
+Uno es un joven de barba larga, con sombrero gris y tiene una canoa pintada con verde y azul. 
+
+El segundo pescador es una persona de mayor edad, que suele usar un sombrero gris 
+y tiene una canoa que es de color verde con azul. 
+
+El tercer pescador es una persona de mayor edad, que usa un sombrero azul con 
+gris y tiene una canoa que es de color verde. 
+
+El cuarto pescador es una persona de mayor edad, que usa un sombrero gris, y 
+tiene un barco que es de color gris. 
+
+Por último, el cuarto pescador es una persona mayor de edad, que usa un 
+sombrero gris, y tiene una canoa pintada de color azul y verde 
+
+
+¿Cuál pescador es el que se acerca a la descripción que Víctor te dio?  
